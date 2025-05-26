@@ -57,6 +57,10 @@ Ensure all tests pass before deployment:
 pytest -v
 ```
 
+##  **Sample**  
+![before](https://github.com/user-attachments/assets/1c3a7da7-7777-46f2-b2f6-d83d3d360de2)
+![after](https://github.com/user-attachments/assets/a715d464-a991-4004-b638-f314369d3465)
+
 ## 📝 **License**  
 This project is licensed under the **MIT License**.
 
